@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\obj\Debug\CodCreateApp.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\obj\Debug\CodCreateApp.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\bin\Debug\CodCreateApp.exe.config
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\bin\Debug\CodCreateApp.exe
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\bin\Debug\CodCreateApp.pdb
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\obj\Debug\CodCreateApp.exe
+C:\Users\MONSTER\source\repos\CodCreateApp\CodCreateApp\obj\Debug\CodCreateApp.pdb
